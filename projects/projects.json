@@ -3583,9 +3583,9 @@
     },
     {
   	"name": "Angular Editable Grid",  
-	  "thumb": "angular_grid/thumb.png", 
+	  "thumb": "angular-editable-grid/thumb.png", 
 	  "desc": "Connect your cloud database to a real REST API and easily and seamlessly perform CRUD operations with ng-grid.", 
-	  "url": "http://backand.com", 
+	  "url": "http://plnkr.co/edit/6jdCzZ?p=preview", 
 	  "info": "http://blog.backand.com/ng-grid-real-rest/", 
 	  "src": "https://github.com/backand/ng-grid-backand-rest-demo",
 	  "submitter": "Backand", 
@@ -3596,7 +3596,8 @@
 	    "Angular", 
 	    "No jQuery",
 	    "Open Source",
-	    "Tests Included" 
+	    "Tests Included",
+		"Developer Tool" 
 	  ]
 	}
 
